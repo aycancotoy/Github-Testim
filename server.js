@@ -5,7 +5,11 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
+<<<<<<< HEAD
 var conflictVar = "Aycan 12345"
+=======
+var aycancotoy = "Aycan ÇOTOY 12345"
+>>>>>>> conflict
 // aycancotoy Branch'ine aittir.
 rp(url)
   .then(function(html){
