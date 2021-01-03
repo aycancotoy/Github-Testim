@@ -11,6 +11,7 @@ var conflictVar = "Aycan 12345"
 var aycancotoy = "Aycan ÇOTOY 12345"
 >>>>>>> conflict
 // aycancotoy Branch'ine aittir.
+// pull request changes
 rp(url)
   .then(function(html){
     //success!
